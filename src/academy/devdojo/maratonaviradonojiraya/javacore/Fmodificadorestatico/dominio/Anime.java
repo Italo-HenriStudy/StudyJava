@@ -1,4 +1,4 @@
-package academy.devdojo.maratonaviradonojiraya.javacore.Fmodificadorestatico.domain;
+package academy.devdojo.maratonaviradonojiraya.javacore.Fmodificadorestatico.dominio;
 
 public class Anime {
     private String nome;
